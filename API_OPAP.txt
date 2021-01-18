@@ -41,5 +41,5 @@ for i in range(days):
 
 """
 exo tin entuposi oti eimai polu konta alla kati paei lathos me ta max nums :(
-vgazei sunexeis 0 80 :(
+vgazei sunexeia 0 80 :(
 """
